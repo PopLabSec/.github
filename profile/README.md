@@ -1,6 +1,6 @@
 
 
-![Logo](./images/Penetration_Testing.png)
+![Logo](./profile/images/Penetration_Testing.png)
 
 ## Hi there 👋
 
