@@ -22,7 +22,8 @@
 
 ### Networking Protocols Penetration Testing
 
-Top 10 Protocols
+#### Top 10 Protocols
+
 - [SMB Penetration Testing](https://www.poplabsec.com/smb-penetration-testing/ "SMB Penetration Testing")
 - [SMTP Penetration Testing](https://www.poplabsec.com/smtp-penetration-testing/ "SMTP Penetration Testing")
 - [SSH Penetration Testing](https://www.poplabsec.com/ssh-penetration-testing/ "SSH Penetration Testing")
@@ -49,3 +50,18 @@ Top 10 Protocols
 ## Advanced Network Penetration Testing
 - CISCO-Penetration-Testing
 - BGP-Security
+
+
+
+## Hacking Tools
+
+- [Metasploit](https://www.poplabsec.com/smb-penetration-testing/ "Metasploit")
+- [Nmap](https://www.poplabsec.com/smb-penetration-testing/ "Nmap")
+- [CrackMapExec](https://www.poplabsec.com/smb-penetration-testing/ "CrackMapExec")
+- [THC Hydra](https://www.poplabsec.com/smb-penetration-testing/ "THC Hydra")
+- [John The Ripper](https://www.poplabsec.com/smb-penetration-testing/ "John The Ripper")
+- [HashCat](https://www.poplabsec.com/smb-penetration-testing/ "HashCat")
+- [Nuclei](https://www.poplabsec.com/smb-penetration-testing/ "Nuclei")
+- [GhostPack](https://www.poplabsec.com/smb-penetration-testing/ "GhostPack")
+- [PwnCat](https://www.poplabsec.com/smb-penetration-testing/ "PwnCat")
+- [Impacket](https://www.poplabsec.com/smb-penetration-testing/ "Impacket")
