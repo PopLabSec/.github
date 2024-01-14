@@ -23,6 +23,7 @@
 - Network-Enumeration-101
 
 - Networking-Penetration-Testing
+- - SMB Penetration Testing
 - Pivoting
 - Lateral Movement
 
