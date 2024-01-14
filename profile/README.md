@@ -20,7 +20,7 @@
 
 ### Network Services/Protocols Penetration Testing
 
-#### Top 15 Protocols
+#### Top Protocols
 
 - [SMB Penetration Testing](https://www.poplabsec.com/smb-penetration-testing/ "SMB Penetration Testing")
 - [SMTP Penetration Testing](https://www.poplabsec.com/smtp-penetration-testing/ "SMTP Penetration Testing")
@@ -37,6 +37,8 @@
 - [Kerberos Penetration Testing](https://www.poplabsec.com/kerberos-penetration-testing/ "Kerberos Penetration Testing")
 - [Telnet Penetration Testing](https://www.poplabsec.com/telnet-penetration-testing/ "Telnet Penetration Testing")
 - [IPMI Penetration Testing](https://www.poplabsec.com/ipmi-penetration-testing/ "IPMI Penetration Testing")
+- [NFS Penetration Testing](https://www.poplabsec.com/nfs-penetration-testing/ "NFS Penetration Testing")
+- [RPC Penetration Testing](https://www.poplabsec.com/rpc-penetration-testing/ "RPC Penetration Testing")
 
 
 ## Web Penetration Testing
