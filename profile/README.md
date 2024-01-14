@@ -21,11 +21,22 @@
 ## Basic Network Penetration Testing
 
 - Network-Enumeration-101
-
-- Networking-Penetration-Testing
-- - SMB Penetration Testing
 - Pivoting
 - Lateral Movement
+
+### Networking Protocols Penetration Testing
+- SMB Penetration Testing
+- SMTP Penetration Testing
+- SSH Penetration Testing
+- FTP Penetration Testing
+- POP3 Penetration Testing
+- IMAP Penetration Testing
+- SNMP Penetration Testing
+- NTP Penetration Testing
+- DNS Penetration Testing
+- [VNC Penetration Testing](https://www.poplabsec.com/ssh-penetration-testing/ "VNC Penetration Testing")
+
+
 
 
 ## Advanced Network Penetration Testing
