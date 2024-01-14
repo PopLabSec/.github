@@ -39,6 +39,8 @@
 - [IPMI Penetration Testing](https://www.poplabsec.com/ipmi-penetration-testing/ "IPMI Penetration Testing")
 - [NFS Penetration Testing](https://www.poplabsec.com/nfs-penetration-testing/ "NFS Penetration Testing")
 - [RPC Penetration Testing](https://www.poplabsec.com/rpc-penetration-testing/ "RPC Penetration Testing")
+- [LDAP Penetration Testing](https://www.poplabsec.com/ldap-penetration-testing/ "LDAP Penetration Testing")
+- [WinRM Penetration Testing](https://www.poplabsec.com/winrm-penetration-testing/ "WinRM Penetration Testing")
 
 
 ## Web Penetration Testing
